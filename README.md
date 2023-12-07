@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Backend Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, .Net Core, JavaScript and NodeJS, or anything related to Backend web development.
+- 💬 Ask me about my experience with C#, ASP.Net Core, JavaScript and NodeJS, or anything related to Backend web development.
 
 ### Connect with Me :
 
